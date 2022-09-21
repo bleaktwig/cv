@@ -1,4 +1,4 @@
-# Bruno **Benkel**
+# Bruno **Benkel** ([pdf](https://github.com/bleaktwig/cv/blob/gh-pages/latex_out/main.pdf))
 *Physicist & computer engineer based in Valparaíso.*
 
 [mail](mailto:bruno.benkel@gmail.com) \| [github](https://github.com/bleaktwig) \| [inspirehep](https://inspirehep.net/authors/2029166)
