@@ -5,23 +5,23 @@
 
 ---
 ## **Exp**erience
-**R&D Computer Engineer** @ [CCTVAL](LINK) (2018 - Now)
+**R&D Computer Engineer** @ [CCTVAL](https://cctval.usm.cl/en/home/) (2018 - Now)
 * Developer of standard HEP data analysis tools used in Run-Group E.
 * Head of the Forward Micromegas Tracker alignment team.
 * Head of the Drift Chambers offline reconstruction optimization team.
 * Lead developer of the configuration, calibration, alarms, and front-end mechanical ventilator software systems.
 * Blockchain developer for small-scale energy democratization project.
 
-**Freelance Software Developer** @ [Upwork](LINK) (2020)
+**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (2020)
 * Software developer in IoT and electroencephalography processing software.
 * Various side-jobs in web development, mainly focused in front-end and UX design work.
 
-**Computer Architecture UTA** @ [UTFSM](LINK) (2016 - 2018)
+**Computer Architecture UTA** @ [UTFSM](https://usm.cl/en/home/) (2016 - 2018)
 * Head of course's teaching assistants.
 * Teacher of weekly classes in tandem with the course's professor.
 * Designer, supervisor, and evaluator of monthly hardware laboratory experiences and homework.
 
-**Artificial Intelligence UTA** @ [UTFSM](LINK) (2018)
+**Artificial Intelligence UTA** @ [UTFSM](https://usm.cl/en/home/) (2018)
 * Supervisor and evaluator of the final project of the course.
 * Assistant in test evaluation.
 
@@ -30,9 +30,9 @@
 
 ---
 ## **Edu**cation
-**M.Sc.** in High Energy Physics @ [UTFSM](LINK) (2021 - Now). \
-**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](LINK) (2017 - 2019). \
-**B.Eng.** in Computer Engineering @ [UTFSM](LINK) (2012 - 2017).
+**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now). \
+**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019). \
+**B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2012 - 2017).
 
 ---
 ## **Pub**lications
