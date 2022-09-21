@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Bruno Benkel 🐦
-description: Last updated: 2022-09-21
+description: Last updated 2022-09-21
 plugins:
 - jekyll-remote-theme
