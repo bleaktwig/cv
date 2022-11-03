@@ -62,3 +62,6 @@
 ## **Int**erests
 **Professional** | High energy physics, scientific computing, data analysis, blockchain technologies, optimization, heuristic algorithms, machine learning, neural networks. \
 **Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling.
+
+---
+*Last updated: 2022-11-03.*
