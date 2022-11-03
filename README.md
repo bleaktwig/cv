@@ -37,7 +37,10 @@
 ---
 ## **Pub**lications
 *@ CLAS Collaboration* \
+**Co-author in** [A multidimensional study of the structure function ratio sigma_LT'/sigma_0 from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (2022) \
+**Co-author in** [First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions](https://inspirehep.net/literature/2170490) (2022) \
 **Co-author in** [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (2022) \
+**Co-author in** [Observation of Azimuth-Dependent Suppression of Hadron Pairs in Electron Scattering off Nuclei](https://inspirehep.net/literature/2112346) (2022) \
 **Co-author in** [Exclusive  pi- Electroproduction off the Neutron in Deuterium in the Resonance Region](https://inspirehep.net/literature/2060593) (2022) \
 **Co-author in** [Beam-Recoil Transferred Polarization in K+Y Electroproduction in the Nucleon Resonance Region with CLAS12](https://inspirehep.net/literature/2029164) (2022)
 
