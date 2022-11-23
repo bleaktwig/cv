@@ -37,6 +37,7 @@
 ---
 ## **Pub**lications
 *@ CLAS Collaboration* \
+**Co-author in** [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (2022) \
 **Co-author in** [A multidimensional study of the structure function ratio sigma_LT'/sigma_0 from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (2022) \
 **Co-author in** [First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions](https://inspirehep.net/literature/2170490) (2022) \
 **Co-author in** [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (2022) \
@@ -64,4 +65,4 @@
 **Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling.
 
 ---
-*Last updated: 2022-11-03.*
+*Last updated: 2022-11-23.*
