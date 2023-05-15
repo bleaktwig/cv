@@ -47,9 +47,15 @@
 * Prepared alcoholic beverages and washed plates.
 
 ---
-## **Edu**cation
-**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now). \
-**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019). \
+## Education
+**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now).
+* ***Thesis.*** Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E.
+* ***Specialization Coursework.*** Experimental physics, quantum mechanics.
+
+**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019).
+* ***Thesis.*** Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software.
+* ***Specialization Coursework.*** Artificial intelligence, deep learning + neural networks, information theory, data analysis, scientific computing.
+
 **B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2012 - 2017).
 
 ---
