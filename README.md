@@ -1,5 +1,5 @@
 # Bruno **Benkel** ([pdf](https://github.com/bleaktwig/cv/blob/gh-pages/latex_out/main.pdf))
-*Physicist, computer engineer, & data analyst based in Valparaíso.*
+*Physicist, computer engineer, & data analyst based in Valparaíso, Chile.*
 
 [mail](mailto:bruno.benkel@gmail.com) \| [github](https://github.com/bleaktwig) \| [inspirehep](https://inspirehep.net/authors/2029166)
 
@@ -49,29 +49,29 @@
 ---
 ## Education
 **M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now).
-* ***Thesis.*** Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E.
+* ***Thesis.*** Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E, w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
 * ***Specialization Coursework.*** Experimental physics, quantum mechanics.
 
 **M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019).
-* ***Thesis.*** Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software.
+* ***Thesis.*** Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software w/ [Claudio Torres](https://www.linkedin.com/in/claudio-torres-0484b545/), [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), and [Raquel Pezoa](https://www.linkedin.com/in/raquel-pezoa-0569976/).
 * ***Specialization Coursework.*** Artificial intelligence, deep learning + neural networks, information theory, data analysis, scientific computing.
 
 **B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2012 - 2017).
 
 ---
-## **Pub**lications
-*@ CLAS Collaboration* \
-**Co-author in** [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (2022) \
-**Co-author in** [A multidimensional study of the structure function ratio sigma_LT'/sigma_0 from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (2022) \
-**Co-author in** [First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions](https://inspirehep.net/literature/2170490) (2022) \
-**Co-author in** [Observation of Correlations between Spin and Transverse Momenta in Back-to-Back Dihadron Production at CLAS12](https://inspirehep.net/literature/2134234) (2022) \
-**Co-author in** [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (2022) \
-**Co-author in** [Observation of Azimuth-Dependent Suppression of Hadron Pairs in Electron Scattering off Nuclei](https://inspirehep.net/literature/2112346) (2022) \
-**Co-author in** [Exclusive  pi- Electroproduction off the Neutron in Deuterium in the Resonance Region](https://inspirehep.net/literature/2060593) (2022) \
-**Co-author in** [Beam-Recoil Transferred Polarization in K+Y Electroproduction in the Nucleon Resonance Region with CLAS12](https://inspirehep.net/literature/2029164) (2022)
+## Publications
+@ **[CLAS Collaboration](https://en.wikipedia.org/wiki/CLAS_detector)**
+* ***Co-author*** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (2022)
+* ***Co-author*** in [A multidimensional study of the structure function ratio sigma_LT'/sigma_0 from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (2022)
+* ***Co-author*** in [First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions](https://inspirehep.net/literature/2170490) (2022)
+* ***Co-author*** in [Observation of Correlations between Spin and Transverse Momenta in Back-to-Back Dihadron Production at CLAS12](https://inspirehep.net/literature/2134234) (2022)
+* ***Co-author*** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (2022)
+* ***Co-author*** in [Observation of Azimuth-Dependent Suppression of Hadron Pairs in Electron Scattering off Nuclei](https://inspirehep.net/literature/2112346) (2022)
+* ***Co-author*** in [Exclusive  pi- Electroproduction off the Neutron in Deuterium in the Resonance Region](https://inspirehep.net/literature/2060593) (2022)
+* ***Co-author*** in [Beam-Recoil Transferred Polarization in K+Y Electroproduction in the Nucleon Resonance Region with CLAS12](https://inspirehep.net/literature/2029164) (2022)
 
 ---
-## **Ski**lls
+## Skills
 *Spoken Languages (ILR scale)* \
     **Native or bilingual** | English, Spanish. \
     **Elementary proficiency** | Italian, Norwegian, Chinese.
@@ -88,7 +88,7 @@
     Gimp, Inkscape, Wonderdraft, Dungeondraft.
 
 ---
-## **Int**erests
+## Interests
 **Professional** | High energy physics, scientific computing, data analysis, blockchain technologies, optimization, heuristic algorithms, machine learning, neural networks. \
 **Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling.
 
