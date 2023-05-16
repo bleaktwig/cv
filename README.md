@@ -7,7 +7,7 @@
 ## Employment
 **HEP Software Developer + R&D Computer Engineer** w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/) & [Will Brooks](https://www.linkedin.com/in/wkbrooks/) @ [CCTVAL](https://cctval.usm.cl/en/home/) (May 2018 - Ongoing)
 * Developed the standard [High Energy Physics (HEP) analysis toolset used by CLAS12 Run Group E](https://github.com/bleaktwig/clas12-rge-analysis).
-* Lead a Micromegas detector alignment team, developing both [detector alignment](https://github.com/JeffersonLab/clas12alignment/tree/master/fmt) and [offline reconstruction](https://github.com/JeffersonLab/clas12-offline-software/pull/726) software.
+* Lead the Forward Micromegas Tracker alignment team, developing both [detector alignment](https://github.com/JeffersonLab/clas12alignment/tree/master/fmt) and [offline reconstruction](https://github.com/JeffersonLab/clas12-offline-software/pull/726) software.
 * Lead a Drift Chambers reconstruction software optimization team, and [optimized a Runge Kutta 4 implementation](https://github.com/JeffersonLab/clas12-offline-software/pull/853) to improve computing speed.
 * Developed an [EPICS-based slow controls system](https://github.com/bleaktwig/rge-epics-support) for the CLAS12 Run Group E's double target system.
 * Lead a team in the development of configuration, calibration, alarms, and front-end systems for a mechanical ventilator software in the face of a shortage during the COVID19 pandemic.
@@ -99,4 +99,4 @@
 **Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling. -->
 
 ---
-*Last updated: 2023-05-15.*
+*Last updated: 2023-05-16.*
