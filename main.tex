@@ -1,5 +1,5 @@
 \documentclass[a4paper]{cv-style}
-\sethyphenation[variant=british]{english}{} % Add words between the {} to avoid them to be cut
+\sethyphenation[variant=british]{english}{}
 
 \usepackage{hyperref}
 \hypersetup{colorlinks=false}
@@ -9,7 +9,7 @@
 \header{Bruno}{Benkel}
 \lastupdated
 
-% === SIDEBAR ===========================================================================
+% === SIDEBAR ==================================================================
 \begin{aside}
     \section{\href{https://bleaktwig.github.io/cv/}{Web version}}
     \section{Contact}
@@ -44,26 +44,47 @@
     \section{Tools \& Libraries}
         Linux
         Git
-        ROOT
+        Python data analysis (numpy, keras, etc.)
+        CERN ROOT
+        EPICS
         \LaTeX{}
         QT + PySide2
+        Gimp \& Inkscape
     %
 \end{aside}
 
-% === WORK EXPERIENCE ===================================================================
-\section{Experience}
+% === WORK EXPERIENCE ==========================================================
+\section{Employment}
     \begin{entrylist}
         \entry
             {2018--Now}
             {CCTVal}
             {Valpara\'iso, Chile}
-            {\jobtitle{R\&D Computer Engineer}
+            {\jobtitle{HEP Software Developer + R\&D Computer Engineer}
             \begin{itemize}
-                \item Developer of standard HEP data analysis tools used in Run-Group E.
-                \item Head of the Forward Micromegas Tracker alignment team.
-                \item Head of the Drift Chambers offline reconstruction optimization team.
-                \item Lead developer of the configuration, calibration, alarms, and front-end mechanical ventilator software systems.
-                \item Blockchain developer for small-scale energy democratization project.
+                \item
+                    Developed the standard High Energy Physics (HEP) analysis toolset used by CLAS12 Run Group E.
+                \item
+                    Lead the Forward Micromegas Tracker alignment team, developing both detector alignment and offline reconstruction software.
+                \item
+                    Lead a Drift Chambers reconstruction software optimization team, and optimized a Runge Kutta 4 implementation to improve computing speed.
+                \item
+                    Developed an EPICS-based slow controls system for the CLAS12 Run Group E's double target system.
+                \item
+                    Lead a team in the development of configuration, calibration, alarms, and front-end systems for a mechanical ventilator software in the face of a shortage during the COVID19 pandemic.
+                \item
+                    Developed blockchain-based software for a small-scale energy democratization project.
+            \end{itemize}} \\
+        \entry
+            {2020--2021}
+            {EntrepreneurX}
+            {Remote}
+            {\jobtitle{Technology Consultant}
+            \begin{itemize}
+                \item
+                    Developed BDM: a blockchain-based payment processing technology.
+                \item
+                    Provided design and technology advice on projects.
             \end{itemize}} \\
         \entry
             {2020}
@@ -71,29 +92,21 @@
             {Remote}
             {\jobtitle{Freelance Software Developer}
             \begin{itemize}
-                \item Software developer in IoT and electroencephalography processing software.
-                \item Various side-jobs in web development, mainly focused in front-end and UX design work.
+                \item
+                    Built a python API to connect input from an electroencephalography scanner to that of an eye movement sensor.
+                \item
+                    Developed software for a python application that connects several IoT devices from different manufacturers.
             \end{itemize}} \\
-        \entry
-            {2016--2018}
-            {UTFSM}
-            {Valpara\'iso, Chile}
-            {\jobtitle{Computer Architecture UTA}
-            \begin{itemize}
-                \item Head of course's teaching assistants.
-                \item Teacher of weekly classes in tandem with the course's professor.
-                \item Designer, supervisor, and evaluator of monthly hardware laboratory experiences and homework.
-            \end{itemize}}
-    \end{entrylist}
-    \begin{entrylist}
         \entry
             {2018}
             {UTFSM}
             {Valpara\'iso, Chile}
             {\jobtitle{Artificial Intelligence UTA}
             \begin{itemize}
-                \item Supervisor and evaluator of the final project of the course.
-                \item Assistant in test evaluation.
+                \item
+                    Supervised and evaluated students' code for the course's projects.
+                \item
+                    Assisted the teacher in test design and evaluation.
             \end{itemize}} \\
         \entry
             {2017--2018}
@@ -101,11 +114,25 @@
             {Los Angeles, US}
             {\jobtitle{Field Service Engineer}
             \begin{itemize}
-                \item Assistant in electricity and computer network installations at residential and commercial buildings in Los Angeles.
+                \item
+                    Installed electricity and computer networks at residential and commercial buildings in Los Angeles.
+            \end{itemize}} \\
+        \entry
+            {2016--2018}
+            {UTFSM}
+            {Valpara\'iso, Chile}
+            {\jobtitle{Computer Architecture UTA}
+            \begin{itemize}
+                \item
+                    Lead the course's teaching assistants.
+                \item
+                    Taught weekly practical classes in tandem with professor's theoretical ones.
+                \item
+                    Designed, supervised, and evaluated monthly hardware laboratory work.
             \end{itemize}}
     \end{entrylist}
 
-% === EDUCATION =========================================================================
+% === EDUCATION ================================================================
 \section{Education}
     \begin{entrylist}
         \entry
@@ -125,7 +152,8 @@
             {\vspace{-0.3cm}}
     \end{entrylist}
 
-% === PUBLICATIONS ======================================================================
+\pagebreak
+% === PUBLICATIONS =============================================================
 \section{Publications}
     \begin{entrylist}
         \entry
@@ -141,6 +169,11 @@
         \entry
             {2022}
             {{\normalfont Co-author in} ~First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions}
+            {CLAS Collaboration}
+            {\vspace{-0.3cm}}
+        \entry
+            {2022}
+            {{\normalfont Co-author in} ~Observation of Correlations between Spin and Tranverse Momenta in Back-to-Back Dihadron Production at CLAS12}
             {CLAS Collaboration}
             {\vspace{-0.3cm}}
         \entry
@@ -165,13 +198,8 @@
             {\vspace{-0.3cm}}
     \end{entrylist}
 
-% === INTERESTS =========================================================================
-\section{Interests}
-    \vspace{-0.2cm}
+% ==============================================================================
+\vspace{0.4cm}
+For further details, you are welcome to check the web version at \href{https://bleaktwig.github.io/cv/}{bleaktwig.github.io/cv/}.
 
-    \textbf{Professional}. High energy physics, scientific computing, data analysis, blockchain technologies, optimization, heuristic algorithms, machine learning, neural networks.
-
-    \textbf{Personal}. Piano, music production, woodworking, D\&D, worldbuilding, design, juggling.
-
-% =======================================================================================
 \end{document}
