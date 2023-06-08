@@ -1,4 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Bruno Benkel 🐦
+title: Bruno Benkel 🐦🌱
+description: Physicist, computer engineer, & data analyst based in Valparaíso, Chile.
 plugins:
 - jekyll-remote-theme

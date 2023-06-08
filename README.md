@@ -10,7 +10,7 @@
 * Lead the Forward Micromegas Tracker alignment team, developing both [detector alignment](https://github.com/JeffersonLab/clas12alignment/tree/master/fmt) and [offline reconstruction](https://github.com/JeffersonLab/clas12-offline-software/pull/726) software.
 * Lead a Drift Chambers reconstruction software optimization team, and [optimized a Runge Kutta 4 implementation](https://github.com/JeffersonLab/clas12-offline-software/pull/853) to improve computing speed.
 * Developed an [EPICS-based slow controls system](https://github.com/bleaktwig/rge-epics-support) for the CLAS12 Run Group E's double target system.
-* Lead a team in the development of configuration, calibration, alarms, and front-end systems for a mechanical ventilator software in the face of a shortage during the COVID19 pandemic.
+* Lead a team in the development of configuration, calibration, alarms, and front-end systems for a [mechanical ventilator software](https://gitlab.com/cctval-iot/ui-vmi) in the face of a shortage during the COVID19 pandemic.
 * Developed blockchain-based software for a small-scale energy democratization project.
 
 **Technology Consultant** w/ [Farid Shandiz](https://www.linkedin.com/in/faridshandiz/) @ [EntrepreneurX](https://linkedin.com/company/entrepreneurx/about/) (September 2020 - April 2021)
@@ -28,7 +28,7 @@
 **Field Service Engineer** w/ [Ben Tatum](https://linkedin.com/in/ben-tatum-42011a149/) (December 2017 - February 2018)
 * Installed electricity and computer networks at residential and commercial buildings in Los Angeles.
 
-**Computer Laboratory Assistant** @ [Technology Integration Laboratory, UTFSM](http://labit.inf.utfsm.cl/) (March 2017 - December 2017)
+**Computer Laboratory Assistant** @ [Technology Integration Laboratory](http://labit.inf.utfsm.cl/), UTFSM (March 2017 - December 2017)
 * Maintained both computer hardware and software.
 * Designed publicity and managed public communications.
 
