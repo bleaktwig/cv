@@ -46,7 +46,7 @@
 **Kitchen Hand** @ Playa Arriba Restaurant (March 2013 - July 2013)
 * Prepared alcoholic beverages and washed plates.
 
-<!-- ***Note.*** *Projects without links are protected by an NDA or a similar agreement.* -->
+<!-- ***Note.*** *Projects without links are protected by a license or an NDA.* -->
 
 ---
 ## Education
@@ -75,23 +75,23 @@
 ---
 ## Skills
 *Programming languages*:
-* **Expert** | C, Java, Python.
-* **Proficient** | Bash, C++, Haskell.
-* **Basic** | JavaScript, MIPS Assembly, R.
+* **Expert.** C, Java, Python.
+* **Proficient.** Bash, C++, Haskell.
+* **Basic.** JavaScript, MIPS Assembly, R.
 
 *Computing tools & libraries*:
-* **Linux** | Usage since 2014, and it's my only operating system since 2016. I have experience with KDE Neon, Arch, Ubuntu, Kubuntu, Pop OS!, and Elementary OS. In addition, I have imparted multiple workshops and tutorials regarding the operating system installation and usage during my tenure at [CCTVal](https://cctval.usm.cl/en/home/).
-* **Git** | Usage since 2016. I have experience with repository organization, issue tracking, code review, Github pages, among other things. I have imparted two courses on git usage for different areas at [CCTVal](https://cctval.usm.cl/en/home/).
-* **Python data analysis** | With Numpy, Scipy, Tensorflow, Keras, and Matplotlib since 2016. I have extensively used the tools for professional projects and M.Sc. coursework. Projects include electroencephalography signal analysis and mechanical ventilator software calibration, among other things.
-* **CERN ROOT** | Usage since 2020. My [M.Sc. thesis analysis software](https://github.com/bleaktwig/clas12-rge-analysis) is based in ROOT, and I've provided ROOT software advice and assistance to other graduate students at UTFSM.
-* **EPICS** | Usage since 2021. I programmed the [slow controls system for the RG-E target system](https://github.com/bleaktwig/rge-epics-support) in EPICS, using various support modules like *motor*, *autosave*, *galil*, among others.
-* **LaTeX** | Usage since 2015. I have extensive experience writing documents in the markup language and its various packages. I wrote both my [M.Sc. theses](https://github.com/bleaktwig/msc-thesis.git) in LaTeX, in addition to developing my own custom themes for presentations and tabletop gamebooks.
-* **QT + PySide2** | Usage since 2020. I built a mechanical ventilator human-machine interface using QT in python.
-* **Gimp & Inkscape** | Gimp usage since 2013, Inkscape since 2018. I designed publicity for both the library and the Technology Integration Laboratory at UTFSM, and have used both programs extensively for recreational purposes since.
+* **Linux.** Usage since 2014, and it's my only operating system since 2016. I have experience with KDE Neon, Arch, Ubuntu, Kubuntu, Pop OS!, and Elementary OS. In addition, I have imparted multiple workshops and tutorials regarding the operating system installation and usage during my tenure at [CCTVal](https://cctval.usm.cl/en/home/).
+* **Git.** Usage since 2016. I have experience with repository organization, issue tracking, code review, Github pages, among other things. I have imparted two courses on git usage for different areas at [CCTVal](https://cctval.usm.cl/en/home/).
+* **Python data analysis.** With Numpy, Scipy, Tensorflow, Keras, and Matplotlib since 2016. I have extensively used the tools for professional projects and M.Sc. coursework. Projects include electroencephalography signal analysis and mechanical ventilator software calibration, among other things.
+* **CERN ROOT.** Usage since 2020. My [M.Sc. thesis analysis software](https://github.com/bleaktwig/clas12-rge-analysis) is based in ROOT, and I've provided ROOT software advice and assistance to other graduate students at UTFSM.
+* **EPICS.** Usage since 2021. I programmed the [slow controls system for the RG-E target system](https://github.com/bleaktwig/rge-epics-support) in EPICS, using various support modules like *motor*, *autosave*, *galil*, among others.
+* **LaTeX.** Usage since 2015. I have extensive experience writing documents in the markup language and its various packages. I wrote both my [M.Sc. theses](https://github.com/bleaktwig/msc-thesis.git) in LaTeX, in addition to developing my own custom themes for presentations and tabletop gamebooks.
+* **QT + PySide2.** Usage since 2020. I built a mechanical ventilator human-machine interface using QT in python.
+* **Gimp & Inkscape.** Gimp usage since 2013, Inkscape since 2018. I designed publicity for both the library and the Technology Integration Laboratory at UTFSM, and have used both programs extensively for recreational purposes since.
 
 *Spoken Languages (ILR scale):*
-* **Native or bilingual** | English, Spanish.
-* **Elementary proficiency** | Italian, Norwegian, Chinese.
+* **Native or bilingual**. English, Spanish.
+* **Elementary proficiency**. Italian, Norwegian, Chinese.
 
 <!-- ---
 ## Interests
@@ -99,4 +99,4 @@
 **Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling. -->
 
 ---
-*Last updated: 2023-05-16.*
+*Last updated: 2023-06-08.*
