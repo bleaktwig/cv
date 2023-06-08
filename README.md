@@ -51,11 +51,11 @@
 ---
 ## Education
 **M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now).
-* ***Thesis.*** [Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E](https://github.com/bleaktwig/msc-thesis), w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
+* ***Thesis.*** [Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E](https://github.com/bleaktwig/msc-thesis/blob/main/out/main.pdf), w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
 * ***Highlighted Courses.*** Experimental physics, particle physics, advanced quantum mechanics.
 
 **M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019).
-* ***Thesis.*** Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software w/ [Claudio Torres](https://www.linkedin.com/in/claudio-torres-0484b545/), [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), and [Raquel Pezoa](https://www.linkedin.com/in/raquel-pezoa-0569976/).
+* ***Thesis.*** [Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software](https://github.com/bleaktwig/undergrad-thesis/blob/main/undergrad_thesis.pdf) w/ [Claudio Torres](https://www.linkedin.com/in/claudio-torres-0484b545/), [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), and [Raquel Pezoa](https://www.linkedin.com/in/raquel-pezoa-0569976/).
 * ***Highlighted Courses.*** Information theory, scientific computing, artificial intelligence, deep learning, artificial neural networks, data analysis.
 
 **B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2012 - 2017).
