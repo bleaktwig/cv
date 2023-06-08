@@ -90,8 +90,8 @@
 * **Gimp & Inkscape.** Gimp usage since 2013, Inkscape since 2018. I designed publicity for both the library and the Technology Integration Laboratory at UTFSM, and have used both programs extensively for recreational purposes since.
 
 *Spoken Languages (ILR scale):*
-* **Native or bilingual**. English, Spanish.
-* **Elementary proficiency**. Italian, Norwegian, Chinese.
+* **Native or bilingual.** English, Spanish.
+* **Elementary proficiency.** Italian, Norwegian, Chinese.
 
 <!-- ---
 ## Interests
