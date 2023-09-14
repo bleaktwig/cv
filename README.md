@@ -28,7 +28,7 @@
 **Field Service Engineer** w/ [Ben Tatum](https://linkedin.com/in/ben-tatum-42011a149/) (Dec 2017 - Feb 2018)
 * Installed electricity and computer networks at residential and commercial buildings in Los Angeles.
 
-**Computer Laboratory Assistant** @ [Technology Integration Laboratory](http://labit.inf.utfsm.cl/), UTFSM (Ma 2017 - Dec 2017)
+**Computer Laboratory Assistant** @ [Technology Integration Laboratory](http://labit.inf.utfsm.cl/), UTFSM (Mar 2017 - Dec 2017)
 * Maintained both computer hardware and software.
 * Designed publicity and managed public communications.
 
@@ -63,19 +63,18 @@
 ---
 ## Publications
 @ *[CLAS Collaboration](https://en.wikipedia.org/wiki/CLAS_detector):*
-* **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) (Aug 26, 2023).
-* **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) (Jul 15, 2023).
-* **Co-author** in [Strong interaction physics at the luminosity frontier with 22 GeV electrons at Jefferson Lab](https://inspirehep.net/literature/2669410) (Jun 13, 2023).
-* **Co-author** in [Measurement of the helicity asymmetry E for the γp→pπ<sup>0</sup> reaction in the resonance region](https://inspirehep.net/literature/2659683) (May 15, 2023).
-* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (Nov 21, 2022).
-* **Co-author** in [A multidimensional study of the structure function ratio σ<sub>LT'</sub>/σ<sub>0</sub> from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (Oct 26, 2022).
-* **Co-author** in [First measurement of Λ electroproduction off nuclei in the current and target fragmentation regions](https://inspirehep.net/literature/2170490) (Oct 24, 2022).
-* **Co-author** in [Observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12](https://inspirehep.net/literature/2134234) (Aug 9, 2022).
-* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (Aug 9, 2022).
-* **Co-author** in [Observation of azimuth-dependent suppression of hadron pairs in electron scattering off nuclei](https://inspirehep.net/literature/2112346) (Jul 14, 2022).
-* **Co-author** in [Exclusive π<sup>-</sup> electroproduction off the neutron in deuterium in the resonance region](https://inspirehep.net/literature/2060593) (Mar 31, 2022).
-
-* **Co-author** in [Beam-recoil transferred polarization in K<sup>+</sup>Y electroproduction in the nucleon resonance region with CLAS12](https://inspirehep.net/literature/2029164) (Feb 7, 2022).
+* **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) - arXiv pre-print (Aug 26, 2023).
+* **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) - arXiv pre-print (Jul 15, 2023).
+* **Co-author** in [Strong interaction physics at the luminosity frontier with 22 GeV electrons at Jefferson Lab](https://inspirehep.net/literature/2669410) - arXiv pre-print (Jun 13, 2023).
+* **Co-author** in [Measurement of the helicity asymmetry E for the γp→pπ<sup>0</sup> reaction in the resonance region](https://inspirehep.net/literature/2659683) - arXiv pre-print (May 15, 2023).
+* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Nov 21, 2022).
+* **Co-author** in [A multidimensional study of the structure function ratio σ<sub>LT'</sub>/σ<sub>0</sub> from hard exclusive pi<sup>+</sup> electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) @ [Physics Letters B vol 839](https://www.sciencedirect.com/journal/physics-letters-b/vol/839/suppl/C) (Oct 26, 2022).
+* **Co-author** in [First measurement of Λ electroproduction off nuclei in the current and target fragmentation regions](https://inspirehep.net/literature/2170490) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Oct 24, 2022).
+* **Co-author** in [Observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12](https://inspirehep.net/literature/2134234) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Aug 9, 2022).
+* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) @ [Nuclear Instruments and Methods in Physics Research sec A vol 1049](https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment/vol/1049/suppl/C) (Aug 9, 2022).
+* **Co-author** in [Observation of azimuth-dependent suppression of hadron pairs in electron scattering off nuclei](https://inspirehep.net/literature/2112346) @ [Physical Review Letters vol 129, issue 18](https://journals.aps.org/prl/issues/129/18) (Jul 14, 2022).
+* **Co-author** in [Exclusive π<sup>-</sup> electroproduction off the neutron in deuterium in the resonance region](https://inspirehep.net/literature/2060593) @ [Physical Review C vol 107 issue 1](https://journals.aps.org/prc/issues/107/1) (Mar 31, 2022).
+* **Co-author** in [Beam-recoil transferred polarization in K<sup>+</sup>Y electroproduction in the nucleon resonance region with CLAS12](https://inspirehep.net/literature/2029164) @ [Physical Review C vol 105 issue 6](https://journals.aps.org/prc/issues/105/6) (Feb 7, 2022).
 
 <!--
 greek alphabet: Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ/ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω.
