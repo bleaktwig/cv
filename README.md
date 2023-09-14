@@ -5,7 +5,7 @@
 
 ---
 ## Employment
-**HEP Software Developer + R&D Computer Engineer** w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/) & [Will Brooks](https://www.linkedin.com/in/wkbrooks/) @ [CCTVAL](https://cctval.usm.cl/en/home/) (May 2018 - Ongoing)
+**HEP Software Developer + R&D Computer Engineer** w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/) & [Will Brooks](https://www.linkedin.com/in/wkbrooks/) @ [CCTVAL](https://cctval.usm.cl/en/home/) (May 2018 - Sep 2023)
 * Developed the standard [High Energy Physics (HEP) analysis toolset used by CLAS12 Run Group E](https://github.com/bleaktwig/clas12-rge-analysis).
 * Lead the Forward Micromegas Tracker alignment team, developing both [detector alignment](https://github.com/JeffersonLab/clas12alignment/tree/master/fmt) and [offline reconstruction](https://github.com/JeffersonLab/clas12-offline-software/pull/726) software.
 * Lead a Drift Chambers reconstruction software optimization team, and [optimized a Runge Kutta 4 implementation](https://github.com/JeffersonLab/clas12-offline-software/pull/853) to improve computing speed.
@@ -13,64 +13,74 @@
 * Lead a team in the development of configuration, calibration, alarms, and front-end systems for a [mechanical ventilator software](https://gitlab.com/cctval-iot/ui-vmi) in the face of a shortage during the COVID19 pandemic.
 * Developed blockchain-based software for a small-scale energy democratization project.
 
-**Technology Consultant** w/ [Farid Shandiz](https://www.linkedin.com/in/faridshandiz/) @ [EntrepreneurX](https://linkedin.com/company/entrepreneurx/about/) (September 2020 - April 2021)
+**Technology Consultant** w/ [Farid Shandiz](https://www.linkedin.com/in/faridshandiz/) @ [EntrepreneurX](https://linkedin.com/company/entrepreneurx/about/) (Sep 2020 - Apr 2021)
 * Developed BDM: a blockchain-based payment processing technology.
 * Provided design and technology advice on projects.
 
-**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (July 2020 - September 2020)
+**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Jul 2020 - Sep 2020)
 * Built a python API to connect input from an electroencephalography scanner to that of an eye movement sensor.
 * Developed software for a python application that connects several IoT devices from different manufacturers.
 
-**Artificial Intelligence UTA** w/ [María Cristina Riff](https://www.linkedin.com/in/maria-cristina-riff-3508942a/) @ [UTFSM](https://usm.cl/en/home/) (March 2018 - August 2018)
+**Artificial Intelligence UTA** w/ [María Cristina Riff](https://www.linkedin.com/in/maria-cristina-riff-3508942a/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2018 - Aug 2018)
 * Supervised and evaluated students' code for the course's projects.
 * Assisted the teacher in test design and evaluation.
 
-**Field Service Engineer** w/ [Ben Tatum](https://linkedin.com/in/ben-tatum-42011a149/) (December 2017 - February 2018)
+**Field Service Engineer** w/ [Ben Tatum](https://linkedin.com/in/ben-tatum-42011a149/) (Dec 2017 - Feb 2018)
 * Installed electricity and computer networks at residential and commercial buildings in Los Angeles.
 
-**Computer Laboratory Assistant** @ [Technology Integration Laboratory](http://labit.inf.utfsm.cl/), UTFSM (March 2017 - December 2017)
+**Computer Laboratory Assistant** @ [Technology Integration Laboratory](http://labit.inf.utfsm.cl/), UTFSM (Ma 2017 - Dec 2017)
 * Maintained both computer hardware and software.
 * Designed publicity and managed public communications.
 
-**Computer Architecture UTA** w/ [Javier Cañas](https://www.linkedin.com/in/javier-ca%C3%B1as-robles-47398b221/) @ [UTFSM](https://usm.cl/en/home/) (March 2016 - December 2018)
+**Computer Architecture UTA** w/ [Javier Cañas](https://www.linkedin.com/in/javier-ca%C3%B1as-robles-47398b221/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2016 - Dec 2018)
 * Lead the course's teaching assistants.
 * Taught weekly practical classes in tandem with professor's theoretical ones.
 * Designed, supervised, and evaluated monthly hardware laboratory work.
 
-**Library Clerk** @ [UTFSM](https://usm.cl/en/home/) (July 2013 - June 2015)
+**Library Clerk** @ [UTFSM](https://usm.cl/en/home/) (Jul 2013 - Jun 2015)
 * Designed publicity and managed social media communication.
 * Operated laser printers and a checkout machine.
 * Participated in sales managerial meetings.
 * Sold goods as a cashier.
 
-**Kitchen Hand** @ Playa Arriba Restaurant (March 2013 - July 2013)
+**Kitchen Hand** @ Playa Arriba Restaurant (Mar 2013 - Jul 2013)
 * Prepared alcoholic beverages and washed plates.
 
 <!-- ***Note.*** *Projects without links are protected by a license or an NDA.* -->
 
 ---
 ## Education
-**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (2021 - Now).
+**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (Mar 2021 - Sep 2023).
 * ***Thesis.*** [Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E](https://github.com/bleaktwig/msc-thesis/blob/main/out/main.pdf), w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
 * ***Highlighted Courses.*** Experimental physics, particle physics, advanced quantum mechanics.
 
-**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2017 - 2019).
+**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (Mar 2017 - Sep 2019).
 * ***Thesis.*** [Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software](https://github.com/bleaktwig/undergrad-thesis/blob/main/undergrad_thesis.pdf) w/ [Claudio Torres](https://www.linkedin.com/in/claudio-torres-0484b545/), [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), and [Raquel Pezoa](https://www.linkedin.com/in/raquel-pezoa-0569976/).
 * ***Highlighted Courses.*** Information theory, scientific computing, artificial intelligence, deep learning, artificial neural networks, data analysis.
 
-**B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (2012 - 2017).
+**B.Eng.** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (Mar 2012 - Mar 2017).
 
 ---
 ## Publications
 @ *[CLAS Collaboration](https://en.wikipedia.org/wiki/CLAS_detector):*
-* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (2022).
-* **Co-author** in [A multidimensional study of the structure function ratio sigma_LT'/sigma_0 from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (2022).
-* **Co-author** in [First Measurement of Lambda Electroproduction off Nuclei in the Current and Target Fragmentation Regions](https://inspirehep.net/literature/2170490) (2022).
-* **Co-author** in [Observation of Correlations between Spin and Transverse Momenta in Back-to-Back Dihadron Production at CLAS12](https://inspirehep.net/literature/2134234) (2022).
-* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (2022).
-* **Co-author** in [Observation of Azimuth-Dependent Suppression of Hadron Pairs in Electron Scattering off Nuclei](https://inspirehep.net/literature/2112346) (2022).
-* **Co-author** in [Exclusive  pi- Electroproduction off the Neutron in Deuterium in the Resonance Region](https://inspirehep.net/literature/2060593) (2022).
-* **Co-author** in [Beam-Recoil Transferred Polarization in K+Y Electroproduction in the Nucleon Resonance Region with CLAS12](https://inspirehep.net/literature/2029164) (2022).
+* **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) (Aug 26, 2023).
+* **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) (Jul 15, 2023).
+* **Co-author** in [Strong interaction physics at the luminosity frontier with 22 GeV electrons at Jefferson Lab](https://inspirehep.net/literature/2669410) (Jun 13, 2023).
+* **Co-author** in [Measurement of the helicity asymmetry E for the γp→pπ<sup>0</sup> reaction in the resonance region](https://inspirehep.net/literature/2659683) (May 15, 2023).
+* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) (Nov 21, 2022).
+* **Co-author** in [A multidimensional study of the structure function ratio σ<sub>LT'</sub>/σ<sub>0</sub> from hard exclusive pi+ electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) (Oct 26, 2022).
+* **Co-author** in [First measurement of Λ electroproduction off nuclei in the current and target fragmentation regions](https://inspirehep.net/literature/2170490) (Oct 24, 2022).
+* **Co-author** in [Observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12](https://inspirehep.net/literature/2134234) (Aug 9, 2022).
+* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) (Aug 9, 2022).
+* **Co-author** in [Observation of azimuth-dependent suppression of hadron pairs in electron scattering off nuclei](https://inspirehep.net/literature/2112346) (Jul 14, 2022).
+* **Co-author** in [Exclusive π<sup>-</sup> electroproduction off the neutron in deuterium in the resonance region](https://inspirehep.net/literature/2060593) (Mar 31, 2022).
+
+* **Co-author** in [Beam-recoil transferred polarization in K<sup>+</sup>Y electroproduction in the nucleon resonance region with CLAS12](https://inspirehep.net/literature/2029164) (Feb 7, 2022).
+
+<!--
+greek alphabet: Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ/ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω.
+others:         →
+-->
 
 ---
 ## Skills
@@ -96,7 +106,8 @@
 <!-- ---
 ## Interests
 **Professional** | High energy physics, scientific computing, data analysis, blockchain technologies, optimization, heuristic algorithms, machine learning, neural networks. \
-**Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling. -->
+**Personal** | Piano, music production, woodworking, D&D, worldbuilding, design, juggling.
+-->
 
 ---
-*Last updated: 2023-06-08.*
+*Last updated: 2023-09-14.*
