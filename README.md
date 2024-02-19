@@ -5,7 +5,13 @@
 
 ---
 ## Employment
-**Postdoc EIC dRICH Online Reconstruction Developer** w/ [Annalisa D'Angelo](https://www.linkedin.com/in/annalisa-d-angelo-32a0293b/) & [Roberto Ammendola](https://www.linkedin.com/in/roberto-ammendola-58a0a82/) @ [INFN Tor Vergata](https://www.roma2.infn.it/) (Nov 2023 - Now)
+**Postdoctoral EIC dRICH Online Reconstruction Developer** w/ [Annalisa D'Angelo](https://www.linkedin.com/in/annalisa-d-angelo-32a0293b/) & [Roberto Ammendola](https://www.linkedin.com/in/roberto-ammendola-58a0a82/) @ [INFN Tor Vergata](https://www.roma2.infn.it/) (Nov 2023 - Now)
+* Developing a neural network based online reconstruction algorithm for the [dual Ring Imaging Cherenkov (dRICH) detector](https://www.sciencedirect.com/science/article/pii/S016890021930453X) for the [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/cfc.php) collaboration.
+* Assisted the (micro-RWELL detector)[https://inspirehep.net/literature/1752133] group in the taking of technical decisions and developing reconstruction software.
+* Acted as a teacher assistant in Italian on the Big Data laboratory experiences for the [PCTO group](https://pcto.uniroma2.it/pcto/).
+
+**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Sep 2023 - Oct 2023)
+* Developed a test framework to detect faults in small-scale bank transactions in Java.
 
 **HEP Software Developer + R&D Computer Engineer** w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/) & [Will Brooks](https://www.linkedin.com/in/wkbrooks/) @ [CCTVAL](https://cctval.usm.cl/en/home/) (May 2018 - Sep 2023)
 * Developed the standard [High Energy Physics (HEP) analysis toolset used by CLAS12 Run Group E](https://github.com/bleaktwig/clas12-rge-analysis).
@@ -23,7 +29,7 @@
 * Built a python API to connect input from an electroencephalography scanner to that of an eye movement sensor.
 * Developed software for a python application that connects several IoT devices from different manufacturers.
 
-**Artificial Intelligence UTA** w/ [María Cristina Riff](https://www.linkedin.com/in/maria-cristina-riff-3508942a/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2018 - Aug 2018)
+**Artificial Intelligence Teacher Assistant** w/ [María Cristina Riff](https://www.linkedin.com/in/maria-cristina-riff-3508942a/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2018 - Aug 2018)
 * Supervised and evaluated students' code for the course's projects.
 * Assisted the teacher in test design and evaluation.
 
@@ -34,7 +40,7 @@
 * Maintained both computer hardware and software.
 * Designed publicity and managed public communications.
 
-**Computer Architecture UTA** w/ [Javier Cañas](https://www.linkedin.com/in/javier-ca%C3%B1as-robles-47398b221/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2016 - Dec 2018)
+**Computer Architecture Teacher Assistant** w/ [Javier Cañas](https://www.linkedin.com/in/javier-ca%C3%B1as-robles-47398b221/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2016 - Dec 2018)
 * Lead the course's teaching assistants.
 * Taught weekly practical classes in tandem with professor's theoretical ones.
 * Designed, supervised, and evaluated monthly hardware laboratory work.
@@ -102,7 +108,8 @@ others:         →
 
 *Spoken Languages (ILR scale):*
 * **Native or bilingual.** English, Spanish.
-* **Elementary proficiency.** Italian, Norwegian, Chinese.
+* **Professional Working Proficiency.** Italian.
+* **Elementary proficiency.** Norwegian, Chinese.
 
 <!-- ---
 ## Interests
@@ -111,4 +118,4 @@ others:         →
 -->
 
 ---
-*Last updated: 2023-11-09.*
+*Last updated: 2024-02-19.*
