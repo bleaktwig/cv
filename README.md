@@ -7,7 +7,7 @@
 ## Employment
 **Postdoctoral EIC dRICH Online Reconstruction Developer** w/ [Annalisa D'Angelo](https://www.linkedin.com/in/annalisa-d-angelo-32a0293b/) & [Roberto Ammendola](https://www.linkedin.com/in/roberto-ammendola-58a0a82/) @ [INFN Tor Vergata](https://www.roma2.infn.it/) (Nov 2023 - Now)
 * Developing a neural network based online reconstruction algorithm for the [dual Ring Imaging Cherenkov (dRICH) detector](https://www.sciencedirect.com/science/article/pii/S016890021930453X) for the [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/cfc.php) collaboration.
-* Assisted the (micro-RWELL detector)[https://inspirehep.net/literature/1752133] group in the taking of technical decisions and developing reconstruction software.
+* Assisted the [micro-RWELL detector](https://inspirehep.net/literature/1752133) group in the taking of technical decisions and developing reconstruction software.
 * Acted as a teacher assistant in Italian on the Big Data laboratory experiences for the [PCTO group](https://pcto.uniroma2.it/pcto/).
 
 **Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Sep 2023 - Oct 2023)
