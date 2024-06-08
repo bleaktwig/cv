@@ -1,17 +1,17 @@
-# Bruno Benkel ([pdf](https://github.com/bleaktwig/cv/blob/gh-pages/latex_out/main.pdf))
+# Bruno Benkel
 *Physicist, computer engineer, & data analyst from Valparaíso, Chile.*
 
-[mail](mailto:bruno.benkel@gmail.com) \| [github](https://github.com/bleaktwig) \| [inspirehep](https://inspirehep.net/authors/2029166)
+ [bruno.benkel@gmail.com](mailto:bruno.benkel@gmail.com) \| [github.com/bleaktwig](https://github.com/bleaktwig) \| [inspirehep.net/authors/2029166](https://inspirehep.net/authors/2029166)
+
+<!-- TODO. Add OrcID. -->
 
 ---
 ## Employment
 **Postdoctoral EIC dRICH Online Reconstruction Developer** w/ [Annalisa D'Angelo](https://www.linkedin.com/in/annalisa-d-angelo-32a0293b/) & [Roberto Ammendola](https://www.linkedin.com/in/roberto-ammendola-58a0a82/) @ [INFN Tor Vergata](https://www.roma2.infn.it/) (Nov 2023 - Now)
-* Developing a neural network based online reconstruction algorithm for the [dual Ring Imaging Cherenkov (dRICH) detector](https://www.sciencedirect.com/science/article/pii/S016890021930453X) for the [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/cfc.php) collaboration.
-* Assisted the EIC [micro-RWELL detector](https://inspirehep.net/literature/1752133) group in the taking of technical decisions and developed tracking software.
-* Acted as a teacher assistant in Italian on the Big Data laboratory experiences for the [PCTO group](https://pcto.uniroma2.it/pcto/).
-
-**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Sep 2023 - Oct 2023)
-* Developed a test framework to detect faults in small-scale bank transactions in Java.
+* Developing a neural network-based online reconstruction algorithm for the [dual Ring Imaging Cherenkov (dRICH) detector](https://www.sciencedirect.com/science/article/pii/S016890021930453X) for the [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/cfc.php) collaboration.
+* Developing a Bayesian regression-based RR Lyrae-class star label prediction algorithm with [Valentina D'Orazi](https://www.linkedin.com/in/valentina-d-orazi-852b08236/).
+* Acted as a teacher assistant (in Italian) on the Big Data laboratory experiences for the [PCTO group](https://pcto.uniroma2.it/pcto/).
+<!-- * Assisted the EIC [micro-RWELL detector](https://inspirehep.net/literature/1752133) group in the taking of technical decisions and developed tracking software. -->
 
 **HEP Software Developer + R&D Computer Engineer** w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/) & [Will Brooks](https://www.linkedin.com/in/wkbrooks/) @ [CCTVAL](https://cctval.usm.cl/en/home/) (May 2018 - Sep 2023)
 * Developed the standard [High Energy Physics (HEP) analysis toolset used by CLAS12 Run Group E](https://github.com/bleaktwig/clas12-rge-analysis).
@@ -25,9 +25,10 @@
 * Developed BDM: a blockchain-based payment processing technology.
 * Provided design and technology advice on projects.
 
-**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Jul 2020 - Sep 2020)
+**Freelance Software Developer** @ [Upwork](https://www.upwork.com/) (Jul 2020 - Sep 2020, Sep 2023 - Oct 2023)
 * Built a python API to connect input from an electroencephalography scanner to that of an eye movement sensor.
 * Developed software for a python application that connects several IoT devices from different manufacturers.
+* Developed a test framework to detect faults in small-scale bank transactions in Java.
 
 **Artificial Intelligence Teacher Assistant** w/ [María Cristina Riff](https://www.linkedin.com/in/maria-cristina-riff-3508942a/) @ [UTFSM](https://usm.cl/en/home/) (Mar 2018 - Aug 2018)
 * Supervised and evaluated students' code for the course's projects.
@@ -54,15 +55,16 @@
 **Kitchen Hand** @ Playa Arriba Restaurant (Mar 2013 - Jul 2013)
 * Prepared alcoholic beverages and washed plates.
 
-<!-- ***Note.*** *Projects without links are protected by a license or an NDA.* -->
-
 ---
 ## Education
+[**Professional Certificate**](https://coursera.org/share/f77b02deaf488dce9416daff47988a3f) in IBM Machine Learning (ML) @ [Coursera](https://www.coursera.org/) (Nov 2023 - May 2024).
+* ***Courses.*** Exploratory data analysis; supervised ML: regression; supervised ML: classification; unsupervised ML; deep learning and reinforcement learning; and ML capstone.
+
 **M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (Mar 2021 - Sep 2023).
 * ***Thesis.*** [Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E](https://github.com/bleaktwig/msc-thesis/blob/main/out/main.pdf), w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
 * ***Highlighted Courses.*** Experimental physics, particle physics, advanced quantum mechanics.
 
-**M.Sc. Equivalent** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (Mar 2017 - Sep 2019).
+**Title (M.Sc. Equivalent)** in Computer Engineering @ [UTFSM](https://usm.cl/en/home/) (Mar 2017 - Sep 2019).
 * ***Thesis.*** [Acceleration of the Kalman Filter Algorithm for the CLAS12 Event Reconstruction Software](https://github.com/bleaktwig/undergrad-thesis/blob/main/undergrad_thesis.pdf) w/ [Claudio Torres](https://www.linkedin.com/in/claudio-torres-0484b545/), [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), and [Raquel Pezoa](https://www.linkedin.com/in/raquel-pezoa-0569976/).
 * ***Highlighted Courses.*** Information theory, scientific computing, artificial intelligence, deep learning, artificial neural networks, data analysis.
 
@@ -71,18 +73,18 @@
 ---
 ## Publications
 @ *[CLAS Collaboration](https://en.wikipedia.org/wiki/CLAS_detector):*
-* **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) - arXiv pre-print (Aug 26, 2023).
-* **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) - arXiv pre-print (Jul 15, 2023).
-* **Co-author** in [Strong interaction physics at the luminosity frontier with 22 GeV electrons at Jefferson Lab](https://inspirehep.net/literature/2669410) - arXiv pre-print (Jun 13, 2023).
-* **Co-author** in [Measurement of the helicity asymmetry E for the γp→pπ<sup>0</sup> reaction in the resonance region](https://inspirehep.net/literature/2659683) - arXiv pre-print (May 15, 2023).
-* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Nov 21, 2022).
-* **Co-author** in [A multidimensional study of the structure function ratio σ<sub>LT'</sub>/σ<sub>0</sub> from hard exclusive pi<sup>+</sup> electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) @ [Physics Letters B vol 839](https://www.sciencedirect.com/journal/physics-letters-b/vol/839/suppl/C) (Oct 26, 2022).
-* **Co-author** in [First measurement of Λ electroproduction off nuclei in the current and target fragmentation regions](https://inspirehep.net/literature/2170490) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Oct 24, 2022).
-* **Co-author** in [Observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12](https://inspirehep.net/literature/2134234) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Aug 9, 2022).
-* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) @ [Nuclear Instruments and Methods in Physics Research sec A vol 1049](https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment/vol/1049/suppl/C) (Aug 9, 2022).
-* **Co-author** in [Observation of azimuth-dependent suppression of hadron pairs in electron scattering off nuclei](https://inspirehep.net/literature/2112346) @ [Physical Review Letters vol 129, issue 18](https://journals.aps.org/prl/issues/129/18) (Jul 14, 2022).
-* **Co-author** in [Exclusive π<sup>-</sup> electroproduction off the neutron in deuterium in the resonance region](https://inspirehep.net/literature/2060593) @ [Physical Review C vol 107 issue 1](https://journals.aps.org/prc/issues/107/1) (Mar 31, 2022).
-* **Co-author** in [Beam-recoil transferred polarization in K<sup>+</sup>Y electroproduction in the nucleon resonance region with CLAS12](https://inspirehep.net/literature/2029164) @ [Physical Review C vol 105 issue 6](https://journals.aps.org/prc/issues/105/6) (Feb 7, 2022).
+* **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) - [Physics Letters B vol 849](https://www.sciencedirect.com/journal/physics-letters-b/vol/849) (Feb 2024).
+* **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) - arXiv pre-print (Aug 2023).
+* **Co-author** in [Strong interaction physics at the luminosity frontier with 22 GeV electrons at Jefferson Lab](https://inspirehep.net/literature/2669410) - arXiv pre-print (Jun 2023).
+* **Co-author** in [Measurement of the helicity asymmetry E for the γp→pπ<sup>0</sup> reaction in the resonance region](https://inspirehep.net/literature/2659683) - [European Physical Journal A vol 59](https://epja.epj.org/articles/epja/abs/2023/09/10050_2023_Article_1123/10050_2023_Article_1123.html) (Sep 2023).
+* **Co-author** in [First CLAS12 measurement of DVCS beam-spin asymmetries in the extended valence region](https://inspirehep.net/literature/2513011) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Nov 2022).
+* **Co-author** in [A multidimensional study of the structure function ratio σ<sub>LT'</sub>/σ<sub>0</sub> from hard exclusive pi<sup>+</sup> electro-production off protons in the GPD regime](https://inspirehep.net/literature/2170921) @ [Physics Letters B vol 839](https://www.sciencedirect.com/journal/physics-letters-b/vol/839/suppl/C) (Oct 2022).
+* **Co-author** in [First measurement of Λ electroproduction off nuclei in the current and target fragmentation regions](https://inspirehep.net/literature/2170490) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Oct 2022).
+* **Co-author** in [Observation of correlations between spin and transverse momenta in back-to-back dihadron production at CLAS12](https://inspirehep.net/literature/2134234) @ [Physical Review Letters vol 130, issue 1](https://journals.aps.org/prl/issues/130/1) (Aug 2022).
+* **Co-author** in [Alignment of the CLAS12 central hybrid tracker with a Kalman Filter](https://inspirehep.net/literature/2134248) @ [Nuclear Instruments and Methods in Physics Research sec A vol 1049](https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment/vol/1049/suppl/C) (Aug 2022).
+* **Co-author** in [Observation of azimuth-dependent suppression of hadron pairs in electron scattering off nuclei](https://inspirehep.net/literature/2112346) @ [Physical Review Letters vol 129, issue 18](https://journals.aps.org/prl/issues/129/18) (Jul 2022).
+* **Co-author** in [Exclusive π<sup>-</sup> electroproduction off the neutron in deuterium in the resonance region](https://inspirehep.net/literature/2060593) @ [Physical Review C vol 107 issue 1](https://journals.aps.org/prc/issues/107/1) (Mar 2022).
+* **Co-author** in [Beam-recoil transferred polarization in K<sup>+</sup>Y electroproduction in the nucleon resonance region with CLAS12](https://inspirehep.net/literature/2029164) @ [Physical Review C vol 105 issue 6](https://journals.aps.org/prc/issues/105/6) (Feb 2022).
 
 <!--
 greek alphabet: Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ/ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω.
@@ -97,12 +99,12 @@ others:         →
 * **Basic.** JavaScript, MIPS Assembly, R.
 
 *Computing tools & libraries*:
-* **Linux.** Usage since 2014, and it's my only operating system since 2016. I have experience with KDE Neon, Arch, Ubuntu, Kubuntu, Pop OS!, and Elementary OS. In addition, I have imparted multiple workshops and tutorials regarding the operating system installation and usage during my tenure at [CCTVal](https://cctval.usm.cl/en/home/).
+* **Linux.** Usage since 2014, and it's the only operating system I use since 2016. I have experience with KDE Neon, Arch, Ubuntu, Kubuntu, Pop OS!, and Elementary OS. In addition, I have imparted multiple workshops and tutorials regarding the operating system installation and usage during my tenure at [CCTVal](https://cctval.usm.cl/en/home/).
 * **Git.** Usage since 2016. I have experience with repository organization, issue tracking, code review, Github pages, among other things. I have imparted two courses on git usage for different areas at [CCTVal](https://cctval.usm.cl/en/home/).
-* **Python data analysis.** With Numpy, Scipy, Tensorflow, Keras, and Matplotlib since 2016. I have extensively used the tools for professional projects and M.Sc. coursework. Projects include electroencephalography signal analysis and mechanical ventilator software calibration, among other things.
+* **Python data analysis.** With Pandas, Numpy, Scipy, Tensorflow Keras, and Matplotlib + Seaborn since 2016. I have extensively used the tools for professional projects and M.Sc. coursework. Projects include electroencephalography signal analysis, RR Lyrae-class stars label prediction, mechanical ventilator software calibration, among other things.
+* **LaTeX.** Usage since 2015. I have extensive experience writing documents in the markup language and its various packages. I wrote both my [M.Sc. theses](https://github.com/bleaktwig/msc-thesis.git) in LaTeX, in addition to developing my own custom themes for presentations and tabletop gamebooks.
 * **CERN ROOT.** Usage since 2020. My [M.Sc. thesis analysis software](https://github.com/bleaktwig/clas12-rge-analysis) is based in ROOT, and I've provided ROOT software advice and assistance to other graduate students at UTFSM.
 * **EPICS.** Usage since 2021. I programmed the [slow controls system for the RG-E target system](https://github.com/bleaktwig/rge-epics-support) in EPICS, using various support modules like *motor*, *autosave*, *galil*, among others.
-* **LaTeX.** Usage since 2015. I have extensive experience writing documents in the markup language and its various packages. I wrote both my [M.Sc. theses](https://github.com/bleaktwig/msc-thesis.git) in LaTeX, in addition to developing my own custom themes for presentations and tabletop gamebooks.
 * **QT + PySide2.** Usage since 2020. I built a mechanical ventilator human-machine interface using QT in python.
 * **Gimp & Inkscape.** Gimp usage since 2013, Inkscape since 2018. I designed publicity for both the library and the Technology Integration Laboratory at UTFSM, and have used both programs extensively for recreational purposes since.
 
@@ -118,4 +120,4 @@ others:         →
 -->
 
 ---
-*Last updated: 2024-02-19.*
+*Last updated: 2024-06-08.*
