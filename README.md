@@ -57,10 +57,10 @@
 
 ---
 ## Education
-[**Professional Certificate**](https://coursera.org/share/f77b02deaf488dce9416daff47988a3f) in IBM Machine Learning (ML) @ [Coursera](https://www.coursera.org/) (Nov 2023 - May 2024).
+**[Professional Certificate](https://coursera.org/share/f77b02deaf488dce9416daff47988a3f)** in IBM Machine Learning (ML) @ [Coursera](https://www.coursera.org/) (Nov 2023 - May 2024).
 * ***Courses.*** Exploratory data analysis; supervised ML: regression; supervised ML: classification; unsupervised ML; deep learning and reinforcement learning; and ML capstone.
 
-**M.Sc.** in High Energy Physics @ [UTFSM](https://usm.cl/en/home/) (Mar 2021 - Sep 2023).
+**M.Sc.** in Physics @ [UTFSM](https://usm.cl/en/home/) (Mar 2021 - Sep 2023).
 * ***Thesis.*** [Acceptance Study of the CLAS12 Detector Using the Forwards MicroMegas Tracker for Run Group E](https://github.com/bleaktwig/msc-thesis/blob/main/out/main.pdf), w/ [Hayk Hakobyan](https://www.linkedin.com/in/hayk-hakobyan-7bab2521/), Raffaella De Vita, and [Will Brooks](https://www.linkedin.com/in/wkbrooks/).
 * ***Highlighted Courses.*** Experimental physics, particle physics, advanced quantum mechanics.
 
@@ -72,6 +72,8 @@
 
 ---
 ## Publications
+**Statistics:** H-index 6, 13 articles, 110 citations.
+
 @ *[CLAS Collaboration](https://en.wikipedia.org/wiki/CLAS_detector):*
 * **Co-author** in [Beam spin asymmetry measurements of deeply virtual π<sup>0</sup> production with CLAS12](https://inspirehep.net/literature/2677594) - [Physics Letters B vol 849](https://www.sciencedirect.com/journal/physics-letters-b/vol/849) (Feb 2024).
 * **Co-author** in [Double-pion electroproduction off protons in deuterium: quasi-free cross sections and final state interactions](https://inspirehep.net/literature/2691255) - arXiv pre-print (Aug 2023).
@@ -109,7 +111,7 @@ others:         →
 * **Gimp & Inkscape.** Gimp usage since 2013, Inkscape since 2018. I designed publicity for both the library and the Technology Integration Laboratory at UTFSM, and have used both programs extensively for recreational purposes since.
 
 *Spoken Languages (ILR scale):*
-* **Native or bilingual.** English, Spanish.
+* **Native or bilingual.** English (Pearson PTE Academic Score: 90), Spanish.
 * **Professional Working Proficiency.** Italian.
 * **Elementary proficiency.** Norwegian, Chinese.
 
@@ -120,4 +122,4 @@ others:         →
 -->
 
 ---
-*Last updated: 2024-06-08.*
+*Last updated: 2024-08-18.*
