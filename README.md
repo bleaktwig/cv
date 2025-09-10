@@ -1,6 +1,4 @@
 # Sol Benkel
-*Physicist, computer engineer, & data analyst from Valparaíso, Chile.*
-
 *Legal name: Bruno Benkel.*
 
  [sol.benkel@proton.me](mailto:sol.benkel@proton.me) \| [github.com/bleaktwig](https://github.com/bleaktwig)
