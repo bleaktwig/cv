@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Bruno Benkel 🐦🌱
-description: Physicist, computer engineer, & data analyst based in Valparaíso, Chile.
+title: Sol Benkel 🐦🌱
+description: Astroparticle Physicist & Computer Engineer from Valparaíso, Chile. Currently based in Berlin, Germany.
 plugins:
-- jekyll-remote-theme
+    - jekyll-remote-theme
