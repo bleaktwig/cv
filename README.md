@@ -6,11 +6,6 @@
 ---
 
 ## Employment
-**PhD Student for the IceCube Neutrino Observatory** w/ [Summer Blot](https://www.linkedin.com/in/summer-blot-aa532b2b/) @ [DESY Zeuthen](https://desy.de/) (Nov 2024 - Now)
-* Working on a tau neutrino appearance analysis.
-* Developing and maintaining the [PISA analysis software](https://github.com/icecube/pisa).
-* Prepared and made public the [data release for the "Golden Event Sample"](https://icecube.wisc.edu/data-releases/2025/07/measurement-of-atmospheric-neutrino-mixing-with-improved-icecube-deepcore-calibration-and-data-processing/) from the Neutrino Oscillation Working Group.
-
 **Postdoctoral EIC dRICH Online Reconstruction Developer** w/ [Annalisa D'Angelo](https://www.linkedin.com/in/annalisa-d-angelo-32a0293b/) & [Roberto Ammendola](https://www.linkedin.com/in/roberto-ammendola-58a0a82/) @ [INFN Tor Vergata](https://www.roma2.infn.it/) (Nov 2023 - Oct 2024)
 * Developed a neural network-based online reconstruction algorithm for the [dual Ring Imaging Cherenkov (dRICH) detector](https://www.sciencedirect.com/science/article/pii/S016890021930453X) for the [Electron Ion Collider (EIC)](https://www.bnl.gov/eic/cfc.php) collaboration.
 * Developed a Bayesian regression-based RR Lyrae-class star label prediction algorithm with [Valentina D'Orazi](https://www.linkedin.com/in/valentina-d-orazi-852b08236/).
@@ -62,6 +57,11 @@
 ---
 
 ## Education
+**PhD Student for the IceCube Neutrino Observatory** w/ [Summer Blot](https://www.linkedin.com/in/summer-blot-aa532b2b/) @ [DESY Zeuthen](https://desy.de/) (Nov 2024 - Now)
+* Working on a tau neutrino appearance analysis.
+* Developing and maintaining the [PISA analysis software](https://github.com/icecube/pisa).
+* Prepared and made public the [data release for the "Golden Event Sample"](https://icecube.wisc.edu/data-releases/2025/07/measurement-of-atmospheric-neutrino-mixing-with-improved-icecube-deepcore-calibration-and-data-processing/) from the Neutrino Oscillation Working Group.
+
 **[Professional Certificate](https://coursera.org/share/f77b02deaf488dce9416daff47988a3f)** in IBM Machine Learning (ML) @ [Coursera](https://www.coursera.org/) (Nov 2023 - May 2024).
 * ***Courses.*** Exploratory data analysis; supervised ML: regression; supervised ML: classification; unsupervised ML; deep learning and reinforcement learning; and ML capstone.
 
